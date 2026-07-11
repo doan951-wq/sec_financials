@@ -1,0 +1,56 @@
+{
+  "cik": 320193,
+  "entityName": "Apple Inc.",
+  "facts": {
+    "us-gaap": {
+      "LongTermDebt": {
+        "units": {
+          "USD": [
+            {
+              "end": "2026-03-28",
+              "val": 82700000000,
+              "accn": "0000320193-26-000013",
+              "fy": 2026,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2026-05-01",
+              "frame": "CY2026Q1I"
+            }
+          ]
+        }
+      },
+      "LongTermDebtCurrent": {
+        "units": {
+          "USD": [
+            {
+              "end": "2026-03-28",
+              "val": 1111111111,
+              "accn": "0000320193-26-000013",
+              "fy": 2026,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2026-05-01",
+              "frame": "CY2026Q1I"
+            }
+          ]
+        }
+      },
+      "LongTermDebtNoncurrent": {
+        "units": {
+          "USD": [
+            {
+              "end": "2026-03-28",
+              "val": 2222222222,
+              "accn": "0000320193-26-000013",
+              "fy": 2026,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2026-05-01",
+              "frame": "CY2026Q1I"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

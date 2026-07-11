@@ -1,0 +1,23 @@
+{
+  "cik": 320193,
+  "entityName": "Apple Inc.",
+  "facts": {
+    "dei": {
+      "EntityCommonStockSharesOutstanding": {
+        "units": {
+          "shares": [
+            {
+              "end": "2022-10-14",
+              "val": 15908118000,
+              "accn": "0000320193-22-000108",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-10-28"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

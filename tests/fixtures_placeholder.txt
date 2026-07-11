@@ -1,0 +1,3 @@
+Sample companyfacts JSON fixtures (e.g. trimmed real responses for a
+multi-tag-name company like Apple/AAPL and a company using CostOfGoodsSold
+like a smaller industrial) go here for Milestone 6 unit tests.

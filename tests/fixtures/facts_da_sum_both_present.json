@@ -1,0 +1,40 @@
+{
+  "cik": 999050,
+  "entityName": "DASumBothPresent Co",
+  "facts": {
+    "us-gaap": {
+      "Depreciation": {
+        "units": {
+          "USD": [
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "val": 7000000000,
+              "accn": "0000999050-23-000001",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-02-15"
+            }
+          ]
+        }
+      },
+      "AmortizationOfIntangibleAssets": {
+        "units": {
+          "USD": [
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "val": 500000000,
+              "accn": "0000999050-23-000001",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-02-15"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

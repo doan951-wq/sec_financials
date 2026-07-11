@@ -1,0 +1,40 @@
+{
+  "cik": 1652044,
+  "entityName": "Alphabet Inc.",
+  "facts": {
+    "us-gaap": {
+      "LongTermDebtCurrent": {
+        "units": {
+          "USD": [
+            {
+              "end": "2025-06-30",
+              "val": 1000000000,
+              "accn": "0001652044-25-000062",
+              "fy": 2025,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2025-07-24",
+              "frame": "CY2025Q2I"
+            }
+          ]
+        }
+      },
+      "LongTermDebtNoncurrent": {
+        "units": {
+          "USD": [
+            {
+              "end": "2025-06-30",
+              "val": 23607000000,
+              "accn": "0001652044-25-000062",
+              "fy": 2025,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2025-07-24",
+              "frame": "CY2025Q2I"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

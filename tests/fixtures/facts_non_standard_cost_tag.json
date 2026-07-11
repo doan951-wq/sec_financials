@@ -1,0 +1,40 @@
+{
+  "cik": 999003,
+  "entityName": "Services Co",
+  "facts": {
+    "us-gaap": {
+      "SalesRevenueNet": {
+        "units": {
+          "USD": [
+            {
+              "start": "2019-01-01",
+              "end": "2019-12-31",
+              "val": 900,
+              "accn": "0000999003-20-000005",
+              "fy": 2020,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2020-02-20"
+            }
+          ]
+        }
+      },
+      "CostOfServices": {
+        "units": {
+          "USD": [
+            {
+              "start": "2019-01-01",
+              "end": "2019-12-31",
+              "val": 300,
+              "accn": "0000999003-20-000005",
+              "fy": 2020,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2020-02-20"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

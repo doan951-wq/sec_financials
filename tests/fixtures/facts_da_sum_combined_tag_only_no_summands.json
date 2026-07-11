@@ -1,0 +1,24 @@
+{
+  "cik": 999053,
+  "entityName": "DACombinedTagOnly Co",
+  "facts": {
+    "us-gaap": {
+      "DepreciationDepletionAndAmortization": {
+        "units": {
+          "USD": [
+            {
+              "start": "2018-01-01",
+              "end": "2018-12-31",
+              "val": 10903000000,
+              "accn": "0000999053-18-000145",
+              "fy": 2018,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2018-11-05"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

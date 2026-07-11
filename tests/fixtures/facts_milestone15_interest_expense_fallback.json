@@ -1,0 +1,66 @@
+{
+  "cik": 999041,
+  "entityName": "InterestExpenseFallback Co",
+  "facts": {
+    "us-gaap": {
+      "InterestExpenseNonoperating": {
+        "units": {
+          "USD": [
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "val": 350000000,
+              "accn": "0000999041-23-000001",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-02-15"
+            }
+          ]
+        }
+      },
+      "InterestExpenseNonOperating": {
+        "units": {
+          "USD": [
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "val": 400000000,
+              "accn": "0000999041-23-000001",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-02-15"
+            }
+          ]
+        }
+      },
+      "InterestExpense": {
+        "units": {
+          "USD": [
+            {
+              "start": "2022-01-01",
+              "end": "2022-12-31",
+              "val": 888000000,
+              "accn": "0000999041-23-000001",
+              "fy": 2022,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2023-02-15"
+            },
+            {
+              "start": "2021-01-01",
+              "end": "2021-12-31",
+              "val": 200000000,
+              "accn": "0000999041-22-000001",
+              "fy": 2021,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2022-02-15"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

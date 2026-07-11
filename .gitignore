@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.csv
+.DS_Store
+.venv/
+.pytest_cache/
+.codex_work/
+.cache/
+build/
+dist/
+.pyinstaller/
+out/
+outputs/
+~$*.xlsx
+*.spec.bak

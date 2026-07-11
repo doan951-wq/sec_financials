@@ -1,0 +1,56 @@
+{
+  "cik": 999040,
+  "entityName": "Mixed Basis Sum Co",
+  "facts": {
+    "us-gaap": {
+      "NetCashProvidedByUsedInOperatingActivities": {
+        "units": {
+          "USD": [
+            {
+              "start": "2024-01-01",
+              "end": "2024-06-30",
+              "val": 999,
+              "accn": "0000999040-24-000001",
+              "fy": 2024,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2024-07-01"
+            }
+          ]
+        }
+      },
+      "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt": {
+        "units": {
+          "USD": [
+            {
+              "start": "2024-04-01",
+              "end": "2024-06-30",
+              "val": 100,
+              "accn": "0000999040-24-000001",
+              "fy": 2024,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2024-07-01"
+            }
+          ]
+        }
+      },
+      "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities": {
+        "units": {
+          "USD": [
+            {
+              "start": "2024-01-01",
+              "end": "2024-06-30",
+              "val": 300,
+              "accn": "0000999040-24-000001",
+              "fy": 2024,
+              "fp": "Q2",
+              "form": "10-Q",
+              "filed": "2024-07-01"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

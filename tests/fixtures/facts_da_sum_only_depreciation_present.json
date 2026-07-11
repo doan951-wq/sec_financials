@@ -1,0 +1,24 @@
+{
+  "cik": 999051,
+  "entityName": "DASumOnlyDepreciation Co",
+  "facts": {
+    "us-gaap": {
+      "Depreciation": {
+        "units": {
+          "USD": [
+            {
+              "start": "2015-01-01",
+              "end": "2015-12-31",
+              "val": 4200000000,
+              "accn": "0000999051-16-000001",
+              "fy": 2015,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2016-02-15"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

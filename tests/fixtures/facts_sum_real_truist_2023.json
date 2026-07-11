@@ -1,0 +1,41 @@
+{
+  "cik": 92230,
+  "entityName": "TRUIST FINANCIAL CORPORATION",
+  "_note": "Real figures pinned from a live SEC frames-API/companyfacts verification performed during Milestone 13 planning/implementation (see EXECUTION_LOG.md): Truist Financial Corp (CIK 0000092230) is one of 503 companies confirmed live in CY2023 to report BOTH marketable-securities split tags in the same period -- a genuine, frequently-occurring 'both present, must sum' case, not a rare edge case. Values below are Truist's real reported FY2023 10-K figures (accession 0000092230-24-000010).",
+  "facts": {
+    "us-gaap": {
+      "ProceedsFromSaleOfAvailableForSaleSecuritiesDebt": {
+        "units": {
+          "USD": [
+            {
+              "start": "2023-01-01",
+              "end": "2023-12-31",
+              "val": 21000000,
+              "accn": "0000092230-24-000010",
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2024-02-23"
+            }
+          ]
+        }
+      },
+      "ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities": {
+        "units": {
+          "USD": [
+            {
+              "start": "2023-01-01",
+              "end": "2023-12-31",
+              "val": 10009000000,
+              "accn": "0000092230-24-000010",
+              "fy": 2023,
+              "fp": "FY",
+              "form": "10-K",
+              "filed": "2024-02-23"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
